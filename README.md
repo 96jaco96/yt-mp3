@@ -8,6 +8,8 @@ It's main focus is to easily download MP3 audio from YouTube
 
 Ensure you have at least Rust installed on your system.
 
+Optionally download ffmpeg to actually convert the downloaded video to mp3
+
 Clone this repository:
 
 
