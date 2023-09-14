@@ -1,0 +1,4 @@
+/target
+src/prototipo.py
+Cargo.lock
+.vscode/launch.json
