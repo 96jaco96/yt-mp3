@@ -25,7 +25,7 @@ Built with Rust, with <3
 
 by 96jaco96.
 
-#### NOTE: This is still a VERY early beta
+#### NOTE: This is still a VERY early beta the release is still a debug release NOT ready for daily use
 
 ## Contributing
 
